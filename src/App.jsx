@@ -23,7 +23,6 @@ function App() {
         <Route path="/Sucursales" element={<MostrarSucursales />} />
         <Route path="/Nosotros" element={<MostrarNosotros />} />
         <Route path="/Galeria" element={<MostrarGaleria />} />
-        {/* Que pedo jajaj xd */}
         <Route path="/Login" element={<MostrarLogin />} />
       </Routes>
     </BrowserRouter>
